@@ -56,13 +56,13 @@ The hardware setup for the Self-Balancing Bot includes:
 - **Motors and Motor Drivers**: Provide movement and stability.
 - **Chassis**: The structure that holds all components together.
 
-![A two-wheeled self-balancing robot](https://github.com/aatmanp4/Self-Balancing-Bot/raw/main/images/robot.png)
+![A two-wheeled self-balancing robot](https://github.com/aatmanp4/Self-Balancing-Bot/blob/main/Diagrams/self-balancing-robot.jpg)
 
 ## Circuit Diagram
 
 To better understand the wiring and connections of the Self-Balancing Bot, refer to the circuit diagram below:
 
-![Circuit Diagram](https://github.com/aatmanp4/Self-Balancing-Bot/raw/main/Diagrams/circuit-diagram.png)
+![Circuit Diagram](https://github.com/aatmanp4/Self-Balancing-Bot/blob/main/Diagrams/Balanced%20Robot.png)
 
 ## Software
 
