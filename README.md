@@ -10,6 +10,7 @@ Welcome to the Self-Balancing Bot project! This repository contains the code, do
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Hardware](#hardware)
+- [Circuit Diagram](#circuit-diagram)
 - [Software](#software)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -55,7 +56,13 @@ The hardware setup for the Self-Balancing Bot includes:
 - **Motors and Motor Drivers**: Provide movement and stability.
 - **Chassis**: The structure that holds all components together.
 
-![A two-wheeled self-balancing robot](https://github.com/aatmanp4/Self-Balancing-Bot/blob/main/Diagrams/self-balancing-robot.jpg)
+![A two-wheeled self-balancing robot](https://github.com/aatmanp4/Self-Balancing-Bot/raw/main/images/robot.png)
+
+## Circuit Diagram
+
+To better understand the wiring and connections of the Self-Balancing Bot, refer to the circuit diagram below:
+
+![Circuit Diagram](https://github.com/aatmanp4/Self-Balancing-Bot/raw/main/Diagrams/circuit-diagram.png)
 
 ## Software
 
@@ -75,4 +82,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to [your name] for the guidance and support in developing this project.
 
 ---
-
